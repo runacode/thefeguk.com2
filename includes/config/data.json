@@ -1,12 +1,12 @@
 {
-  "country_1": "uk",
-  "country_2": "United States",
-  "currency": "$",
-  "FaceBookCurrency": "USD",
+"country_1": "UK",
+  "country_2": "United Kingdom",
+  "currency": "&pound;",
+  "FaceBookCurrency": "GBP",
   "products": [
     {
-      "cid": 34,
-      "cid_free": 35,
+      "cid": 64,
+      "cid_free": 65,
       "img": "/resources/images/main-banner.jpg",
       "imgsafe": "/resources/images/smain-big.jpg",
       "img_small": "/resources/images/smain-small.jpg",
@@ -23,10 +23,10 @@
       "buy_2_get_1": "Buy 2 and get 1 for free",
       "satisfaction_guaranteed": "Satisfaction<br>Guaranteed",
       "add_to_cart": "Add to Cart",
-      "support_email": "support@fegserum-us.com",
-      "rand_head": "Cool Eyelashes for all",
+      "support_email": "support@thefeguk.com",
+      "rand_head": "Free Shipping Till the Weekend",
       "logos": "../resources/images/logos.jpg"
-
+      
     }
   ]
 }
